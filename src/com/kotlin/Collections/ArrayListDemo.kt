@@ -1,3 +1,5 @@
+package com.kotlin.Collections
+
 fun main() {
     // ArrayList is array with no limit, it's an dynamic array
     // duplicates size each time is allocates a size

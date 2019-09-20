@@ -17,7 +17,7 @@ fun showUserInfo(userId:Int) {
     println("userId $userId")
 }
 fun main() {
-    var name="James" // local variable to main
+    var name="James" // local variable to com.kotlin.Collections.com.kotlin.Collections.main
     globalName = "james"
     showInfo(name)
     showUserInfo()

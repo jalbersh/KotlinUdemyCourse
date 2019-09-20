@@ -29,7 +29,7 @@ fun main () {
         for (i:Int in 1..7) {
             println("innerLoop: $i")
             if (i==6) {
-                return // returns to main - doesn't execute last print end
+                return // returns to com.kotlin.Collections.com.kotlin.Collections.main - doesn't execute last print end
             }
         }
     }

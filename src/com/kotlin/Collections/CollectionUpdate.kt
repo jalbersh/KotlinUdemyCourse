@@ -1,3 +1,5 @@
+package com.kotlin.Collections
+
 // mutable: can update, add more
 // immutable: cannot be updated, cannot add more
 
